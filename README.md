@@ -1,1 +1,1 @@
-# data-structures
+# @pfoerdie/data-structures
